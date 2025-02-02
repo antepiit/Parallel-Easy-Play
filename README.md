@@ -4,9 +4,9 @@ Parallel TCG Assistant
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/ZTzdkSmUtTI/0.jpg)](https://www.youtube.com/watch?v=ZTzdkSmUtTI)
 
-Мой Telegram https://t.me/+uutqNQeyOFVjMmFi
+[Мой Telegram](https://t.me/+uutqNQeyOFVjMmFi)
 
-Почему стоит использовать Parallel Easy Play для отыгрыша Parallel
+## Почему стоит использовать Parallel Easy Play для отыгрыша Parallel
 
 ✅Экономия по времени более 30 часов в месяц(точное время зависит от кол-ва отыгрываемых акков)
 
@@ -20,7 +20,7 @@ Parallel TCG Assistant
 
 ✅Для обновления игры достаточно зайти в основной клиент на вашей системе и обновить игру
 
-Ключевые решения, которые предлагает Parallel Easy Play:
+### Ключевые решения, которые предлагает Parallel Easy Play:
 
 1.Автоматический запуск аккаунтов причем учитывая ранги за вчерашний день
 (Анализируются ваши ранги за вчера и на основе данных выстраивается очередь из аккаунтов(от старших рангов к младшим)
