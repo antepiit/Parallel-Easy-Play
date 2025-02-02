@@ -4,6 +4,8 @@ Parallel TCG Assistant
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/ZTzdkSmUtTI/0.jpg)](https://www.youtube.com/watch?v=ZTzdkSmUtTI)
 
+Мой Telegram https://t.me/+uutqNQeyOFVjMmFi
+
 Почему стоит использовать Parallel Easy Play для отыгрыша Parallel
 
 ✅Экономия по времени более 30 часов в месяц(точное время зависит от кол-ва отыгрываемых акков)
@@ -31,3 +33,4 @@ Parallel TCG Assistant
 5.Возможность отслеживать общее кол-во побед за сегодня с помощью прогресс бара в углу экрана и с помощью таблицы
 
 6.Конфигурация под вашу систему с помощью настроек
+
