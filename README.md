@@ -1,6 +1,8 @@
 # Parallel-Easy-Play
 Parallel TCG Assistant
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZTzdkSmUtTI?si=xKENebwi32qdbZUX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+https://www.youtube.com/watch?v=ZTzdkSmUtTI
+
 Почему стоит использовать Parallel Easy Play для отыгрыша Parallel
 
 ✅Экономия по времени более 30 часов в месяц(точное время зависит от кол-ва отыгрываемых акков)
