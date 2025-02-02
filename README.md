@@ -1,7 +1,8 @@
 # Parallel-Easy-Play
 Parallel TCG Assistant
 
-https://www.youtube.com/watch?v=ZTzdkSmUtTI
+
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/ZTzdkSmUtTI/0.jpg)](https://www.youtube.com/watch?v=ZTzdkSmUtTI)
 
 Почему стоит использовать Parallel Easy Play для отыгрыша Parallel
 
